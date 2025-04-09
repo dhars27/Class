@@ -1,1 +1,2 @@
-# Class
+# synchronousBallMovement
+Ball moving synchronously
